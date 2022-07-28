@@ -1,0 +1,41 @@
+Project #8 - Submission form
+
+Please fill in this form and submit it with your project #8.
+
+Enter no more than 5 user stories that you did for the assignment that you would like to be
+graded on. For each story include the following information:
+
+Story number and name: 4 - Activity Feed
+Story points: 4
+Brief description to see the story in action:
+Click button labelled 'Activity' on the TopBar and it will display a list of the 5 most recent activities done by any user.
+There is a button labelled 'Refresh' on the ActivityFeed page which will trigger an update of the activity feed.
+
+Story number and name: 5 - Deleting Comments, Photos, and Users
+Story points: 4
+Brief description to see the story in action:
+If you are logged in as the user who wrote the comment, there will be an IconButton with an 'x' beside your comment.
+Click that button to delete the comment.
+If you are logged in as the user who uploaded the photo, there will be an IconButton with a trash icon underneath your photo.
+Click that button to delete the photo.
+If you are logged in as the user whose display page belongs to, there will be a button labelled 'Delete User' on your user details page.
+Clicking that button will result in a message saying 'Are you sure you want to delete your account?' and 2 buttons showing up,
+one labelled 'Delete' and the other labelled 'Cancel'.
+Clicking 'Delete' would result in your user being deleted, along with your photos, comments and likes on other user's photos, and your
+recent activities being removed from the Activity Feed page.
+
+Story number and name: 6 - Photo Like Votes
+Story points: 4
+Brief description to see the story in action:
+Click button IconButton with an empty heart icon underneath the photo and it will update the number of likes of that photo and change the IconButton into
+one with a filled heart icon, and it will again update the number of likes of that photo when clicked.
+Photos will be sorted based on likes, but not immediately as you click the button since it is not a good UX to have the
+photos being sorted every time the like button is clicked.
+
+Total Story Points: 12
+
+Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/ZnVWqRuwHko
+
+Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+
+Any special instructions for Grading (should be easy to run app from new machine): No

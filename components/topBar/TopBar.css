@@ -1,0 +1,34 @@
+.cs142-topbar-appBar {
+  height: 65px;
+  justify-content: 'center';
+  width: 100%;
+}
+
+.topBar {
+  width: 100%;
+}
+
+.leftElem {
+	display: inline;
+}
+
+.inputElem {
+  margin-left: 10%;
+}
+
+.uploadElem {
+  margin-left: 10%;
+}
+
+.activityElem {
+  margin-left: 10%;
+}
+
+.logoutElem {
+  margin-left: 10%;
+}
+
+.rightElem {
+  display: inline;
+	text-align: center;
+}

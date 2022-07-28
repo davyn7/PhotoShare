@@ -1,0 +1,31 @@
+.userDetail {
+  height: 100%;
+}
+
+.userName {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.userJob {
+  padding: 10px;
+  padding-top: 0;
+}
+
+.userDesc {
+  padding: 10px;
+}
+
+.userLoc {
+  padding: 10px;
+  padding-bottom: 30px;
+  color: #6c5ce7;
+}
+
+.userBtn {
+  padding: 10px;
+}
+
+.warning {
+  padding: 5px;
+}

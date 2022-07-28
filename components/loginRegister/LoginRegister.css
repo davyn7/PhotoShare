@@ -1,0 +1,21 @@
+.loginRegister {
+  height: 100%;
+}
+
+.paper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form {
+  width: 100%;
+}
+
+.submit {
+
+}
+
+.switchNow {
+  margin-bottom: 20px;
+}
