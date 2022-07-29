@@ -1,7 +1,7 @@
 # PhotoShare
 
 ## Description
-Built a photo sharing app for my CS 142 Final Project. This app is a simplified version of Instagram, allowing users to upload, like, and comment on photos. Used React for the front end and MongoDB (Mongoose) for the backend.
+Built a full-stack photo sharing app for my CS 142 Final Project. This app is a simplified version of Instagram, allowing users to upload, like, and comment on photos. Used React for the front end and MongoDB (Mongoose) for the backend.
 
 ## Details and features (all supported by both the frontend and backend):
 - User register, login, and logout
